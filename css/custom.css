@@ -677,3 +677,11 @@ a.thumbnail-sf2 {
 .spy ul li {
 	padding-left: 5px;
 }
+
+a.download-pdf {
+   display: inline-block;
+   margin-top: 10px;
+   margin-left: -10px;
+   padding: 10px 10px 10px 32px;
+   background: url("../img/pdf.png") no-repeat left center;
+}
